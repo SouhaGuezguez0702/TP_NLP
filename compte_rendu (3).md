@@ -1,8 +1,7 @@
 # Compte rendu — TP 1 : Construire une chaîne de prétraitement en TAL
 
 - **Module :** Natural Language Processing — Chapitre 2 (prétraitement et tokenisation)
-- **Auteur(s) :** Souha <!-- ajouter le nom du binôme -->
-- **Code :** `lab01_<nom1>_<nom2>.py`
+- **Auteur(s) :** Souha Guezguez
 - **Résultat :** 6/6 tests passés (T1 à T6)
 
 ---
